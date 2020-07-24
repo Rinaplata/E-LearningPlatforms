@@ -52,7 +52,7 @@ Plataformas para aprendizaje de desarrollo de software online
 [scratch](https://scratch.mit.edu/)
 
 
-##Plataforma para niños 
+## Plataforma para niños 
 
 [code](https://studio.code.org/courses)
 
