@@ -1,7 +1,7 @@
 # E-LearningPlatforms
 Plataformas para aprendizaje de desarrollo de software online
 
-[w3shools](https://www.w3schools.com/html/default.asp)
+[w3schools](https://www.w3schools.com/html/default.asp)
 
 https://www.w3schools.com/html/default.asp	w3shools
 https://net-university.ninja/	Net University
