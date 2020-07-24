@@ -2,7 +2,9 @@
 Plataformas para aprendizaje de desarrollo de software online
 
 [w3schools](https://www.w3schools.com/html/default.asp)
+
 [Net University](https://net-university.ninja/)
+
 [code academy](https://www.codecademy.com/catalog/all)
 [spoj](https://www.spoj.com/)
 [codechef](https://www.codechef.com/)
