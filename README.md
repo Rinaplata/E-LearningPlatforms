@@ -2,35 +2,42 @@
 Plataformas para aprendizaje de desarrollo de software online
 
 [w3schools](https://www.w3schools.com/html/default.asp)
+[Net University](https://net-university.ninja/)
+[code academy](https://www.codecademy.com/catalog/all)
+[spoj](https://www.spoj.com/)
+[codechef](https://www.codechef.com/)
+[qeeksforgeeks](https://www.geeksforgeeks.org/)
+[udemy](https://www.udemy.com/course/csharp-cleancode/)
+[codesignal](https://app.codesignal.com/)
+[coderbayte](https://coderbyte.com/challenges)
+[leetcode](https://leetcode.com/)
+[pluralsight](https://www.pluralsight.com/product/paths)	
+[bitdegree](https://es.bitdegree.org/curso/the-complete-git-and-github-course-beginner-to-advanced)	
+[progate](https://progate.com/es6/study/1/2#/3	)
+[edx](https://www.edx.org/course/data-science-r-basics)
+[hackr](https://hackr.io/)
+[coursera ](https://www.coursera.org/programs/tecnologico-de-antioquia-on-coursera-v9s5v)
+[EDteam](https://ed.team/)
+[platzi](https://platzi.com/)
+[datacamp](https://learn.datacamp.com/)
+[FreCodeCamp](https://www.freecodecamp.org/)
+[Codewars](https://www.codewars.com/)
+[Codigo Facilito](https://codigofacilito.com/)	
+[udacity](https://www.udacity.com/school-of-programming)
+[HackerRank](https://www.hackerrank.com/dashboard)
+[scratch](https://scratch.mit.edu/)
 
-https://www.w3schools.com/html/default.asp	w3shools
-https://net-university.ninja/	Net University
-https://www.codecademy.com/catalog/all	code academy
-https://www.spoj.com/	spoj
-https://www.codechef.com/	codechef
-https://www.geeksforgeeks.org/	qeeksforgeeks
-https://www.udemy.com/course/csharp-cleancode/	udemy
-https://app.codesignal.com/	codesignal
-https://coderbyte.com/challenges	coderbayte
-https://leetcode.com/	leetcode
-https://www.pluralsight.com/product/paths	pluralsight
-https://es.bitdegree.org/curso/the-complete-git-and-github-course-beginner-to-advanced	bitdegree
-https://progate.com/es6/study/1/2#/3	progate
-https://www.edx.org/course/data-science-r-basics	edx
-https://hackr.io/	
-https://www.coursera.org/programs/tecnologico-de-antioquia-on-coursera-v9s5v	coursera 
-https://ed.team/	EDteam
-https://platzi.com/	platzi
-https://learn.datacamp.com/	Datacamp
-https://www.freecodecamp.org/	FreCodeCamp
-	
-https://www.codewars.com/	Codewars
-https://codigofacilito.com/	Codigo Facilito
-Nivel medio 	
-https://www.udacity.com/school-of-programming	udacity
+Plataforma para niños 
+
+[code](https://studio.code.org/courses)
+[codemonkey](https://www.codemonkey.com/)
+[lightbot](https://lightbot.com/)	
+[tynker](https://www.tynker.com/hour-of-code/)
+[codecombat](https://codecombat.com/)
+
+
 	
 	
 	
 	
-Nivel alto	
-https://www.hackerrank.com/dashboard	HackerRank
+	
